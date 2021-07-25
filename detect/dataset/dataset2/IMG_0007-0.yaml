@@ -1,0 +1,6 @@
+image_file: IMG_0007.jpg
+image_width: 768
+image_height: 1024
+plate_corners_gt: 209 659 620 688 606 757 212 729
+plate_number_gt: 52256 أ 40
+plate_inverted_gt: false

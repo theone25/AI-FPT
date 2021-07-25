@@ -1,0 +1,6 @@
+image_file: IMG_0008 (4).jpg
+image_width: 768
+image_height: 1024
+plate_corners_gt: 212 382 534 416 528 480 211 452
+plate_number_gt: 31294 و 6
+plate_inverted_gt: false
